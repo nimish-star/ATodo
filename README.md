@@ -57,6 +57,11 @@ To run this project locally, follow these steps:
 
 The application should now be running on `http://localhost:3000`.
 
+## Screenshot
+
+![Screenshot 2024-06-27 151942](https://github.com/nimish-star/ATodo/assets/72727644/dc0a0261-7608-45fe-bf14-ff3eb9e34a22)
+
+
 ## Technologies Used
 
 - **MongoDB**: NoSQL database for storing tasks
